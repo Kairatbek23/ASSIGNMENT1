@@ -1,0 +1,15 @@
+/Users/kairatbekxantares/Desktop/C#/hw1-input-Kairatbek23-main/ASSIGNMENT1/bin/Debug/net7.0/Homework
+/Users/kairatbekxantares/Desktop/C#/hw1-input-Kairatbek23-main/ASSIGNMENT1/bin/Debug/net7.0/Homework.deps.json
+/Users/kairatbekxantares/Desktop/C#/hw1-input-Kairatbek23-main/ASSIGNMENT1/bin/Debug/net7.0/Homework.runtimeconfig.json
+/Users/kairatbekxantares/Desktop/C#/hw1-input-Kairatbek23-main/ASSIGNMENT1/bin/Debug/net7.0/Homework.dll
+/Users/kairatbekxantares/Desktop/C#/hw1-input-Kairatbek23-main/ASSIGNMENT1/bin/Debug/net7.0/Homework.pdb
+/Users/kairatbekxantares/Desktop/C#/hw1-input-Kairatbek23-main/ASSIGNMENT1/obj/Debug/net7.0/Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kairatbekxantares/Desktop/C#/hw1-input-Kairatbek23-main/ASSIGNMENT1/obj/Debug/net7.0/Homework.AssemblyInfoInputs.cache
+/Users/kairatbekxantares/Desktop/C#/hw1-input-Kairatbek23-main/ASSIGNMENT1/obj/Debug/net7.0/Homework.AssemblyInfo.cs
+/Users/kairatbekxantares/Desktop/C#/hw1-input-Kairatbek23-main/ASSIGNMENT1/obj/Debug/net7.0/Homework.csproj.CoreCompileInputs.cache
+/Users/kairatbekxantares/Desktop/C#/hw1-input-Kairatbek23-main/ASSIGNMENT1/obj/Debug/net7.0/Homework.sourcelink.json
+/Users/kairatbekxantares/Desktop/C#/hw1-input-Kairatbek23-main/ASSIGNMENT1/obj/Debug/net7.0/Homework.dll
+/Users/kairatbekxantares/Desktop/C#/hw1-input-Kairatbek23-main/ASSIGNMENT1/obj/Debug/net7.0/refint/Homework.dll
+/Users/kairatbekxantares/Desktop/C#/hw1-input-Kairatbek23-main/ASSIGNMENT1/obj/Debug/net7.0/Homework.pdb
+/Users/kairatbekxantares/Desktop/C#/hw1-input-Kairatbek23-main/ASSIGNMENT1/obj/Debug/net7.0/Homework.genruntimeconfig.cache
+/Users/kairatbekxantares/Desktop/C#/hw1-input-Kairatbek23-main/ASSIGNMENT1/obj/Debug/net7.0/ref/Homework.dll

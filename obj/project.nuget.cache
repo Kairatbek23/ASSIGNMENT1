@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gvaePsUtz5b4l68yfHrmeaoLw2WGb7XrEp+YrpOuxQC67ter+FQaV+ylZ9wBf31TvJyxEKMA6lVZjbfCFrEfzA==",
+  "success": true,
+  "projectFilePath": "/Users/kairatbekxantares/Desktop/C#/hw1-input-Kairatbek23-main/ASSIGNMENT1/Homework.csproj",
+  "expectedPackageFiles": [
+    "/Users/kairatbekxantares/.nuget/packages/microsoft.netcore.app.ref/7.0.18/microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "/Users/kairatbekxantares/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.18/microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "/Users/kairatbekxantares/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.18/microsoft.netcore.app.host.osx-arm64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
